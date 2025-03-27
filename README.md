@@ -1,7 +1,7 @@
 # Analyse Temporelle des Contrats Actifs 
 
 ## 📌 Description du Projet
-Ce projet vise à analyser l'évolution des contrats actifs sur une période donnée (du 01/01/2023 au 11/03/2025) à partir des données contenues dans le fichier Excel "Test Excel Service Data.xlsx". L'objectif est de fournir un tableau de bord interactif sous Power BI ou Excel permettant de suivre les indicateurs clés suivants :
+Ce projet vise à analyser l'évolution des contrats actifs sur une période donnée (du 01/01/2023 au 11/03/2025). L'objectif est de fournir un tableau de bord interactif sous Power BI ou Excel permettant de suivre les indicateurs clés suivants :
 
 * Nombre de contrats actifs par date sélectionnée
 
